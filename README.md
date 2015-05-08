@@ -9,7 +9,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```bash
-composer require --prefer-dist "yii2-jquery-visible:*"
+composer require --prefer-dist "madand/yii2-jquery-visible:*"
 ```
 
 or add
